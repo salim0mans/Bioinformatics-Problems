@@ -5,3 +5,5 @@ Sources of problems include:
   1. ROSALIND - Bioinformatics Stronghold.
   2. Coursera - Introduction to Bioinformatics (chapter 1).
   3. Single-Cell RNA-seq general pipeline with basic QC, conducted on public data.
+
+Each Source is available in a different branch.
